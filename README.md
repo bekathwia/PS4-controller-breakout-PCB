@@ -1,6 +1,5 @@
 # PS4 controller breakout PCB
- <a href="https://beckystern.com/?p=104660"><img src="assets/image.jpg?raw=true" width="500px"><br/>
-Click here to purchase one from my store</a>
+ <a href="https://beckystern.com/?p=104660"><img src="assets/image.jpg?raw=true" width="500px"></a>
 
 Bill of materials:
 2x tiny tactile switches https://www.digikey.com/en/products/detail/mitsumi-electric-company-ltd/R-667834/11591283
