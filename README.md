@@ -1,5 +1,5 @@
 # PS4 controller breakout PCB
- <a href="https://beckystern.com/store/">
+ <a href="https://beckystern.com/store/"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from my store</a>
 
 More info:
