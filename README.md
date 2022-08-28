@@ -1,11 +1,11 @@
 # PS4 controller breakout PCB
  <a href="https://beckystern.com/?p=104660"><img src="assets/image.jpg?raw=true" width="500px"></a>
 
-Bill of materials:
-2x tiny tactile switches https://www.digikey.com/en/products/detail/mitsumi-electric-company-ltd/R-667834/11591283
-1x small tactile switch https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/430471035826/5209042
-2x joysticks https://amzn.to/3QZKtyv
-1x right angle header 2x12 https://www.digikey.com/en/products/detail/adam-tech/PH2RA-24-UA/9830521?s=N4IgTCBcDaIAoAkwCUCCBaMAWdBVVIAugL5A
+Bill of materials:<br/>
+2x tiny tactile switches https://www.digikey.com/en/products/detail/mitsumi-electric-company-ltd/R-667834/11591283<br/>
+1x small tactile switch https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/430471035826/5209042<br/>
+2x joysticks https://amzn.to/3QZKtyv<br/>
+1x right angle header 2x12 https://www.digikey.com/en/products/detail/adam-tech/PH2RA-24-UA/9830521?s=N4IgTCBcDaIAoAkwCUCCBaMAWdBVVIAugL5A<br/>
 
 More info:
 
