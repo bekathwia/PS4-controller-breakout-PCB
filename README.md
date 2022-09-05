@@ -2,10 +2,10 @@
  <a href="https://beckystern.com/?p=104660"><img src="assets/image.jpg?raw=true" width="500px"></a>
 
 Bill of materials:<br/>
-2x tiny tactile switches https://www.digikey.com/en/products/detail/mitsumi-electric-company-ltd/R-667834/11591283<br/>
-1x small tactile switch https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/430471035826/5209042<br/>
-2x joysticks https://amzn.to/3QZKtyv<br/>
-1x right angle header 2x12 https://www.digikey.com/en/products/detail/adam-tech/PH2RA-24-UA/9830521?s=N4IgTCBcDaIAoAkwCUCCBaMAWdBVVIAugL5A<br/>
+2x <a href="https://www.digikey.com/en/products/detail/mitsumi-electric-company-ltd/R-667834/11591283">tiny tactile switches</a><br/>
+1x <a href="https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/430471035826/5209042">small tactile switch</a><br/>
+2x <a href="https://amzn.to/3QZKtyv">joysticks</a><br/>
+1x <a href="https://www.digikey.com/en/products/detail/adam-tech/PH2RA-22-UA/9830560">right angle header 2x13</a><br/>
 
 More info:
 
